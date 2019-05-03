@@ -1,39 +1,40 @@
 const profile = {
-  fullName: 'Website Owner',
-  description: 'FRONT-END DEVELOPER',
+  fullName: 'Arslan Ahmad',
+  description: 'FULL-STACK DEVELOPER',
   // The basepath is the assets folder
   /// the file sould be imported in assets-import.js
   avatarPath: 'avatar.svg',
   about: {
-    title: `HEY THERE! 
-    I'M WEBSITE OWNER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-   
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.`,
+    title: `Hi there! 
+    Welcome to my about`,
+    description: `I am a result driven full stack developer who is obsessed with the process of improving my skills. I first discovered my love for coding from
+    an early age through game design in high school. I have a proven track record of performing well in fast-paced environments. I am eager
+    to emerge myself in complex issues that will allow for personal growth in web development. I am extremely team oriented and I believe
+    that teamwork is the best way to approach tough problems and to help build a strong foundation. Additionally, I love to play basketball as I
+    believe it improves my work ethic and ability to communicate with others.`,
     findMeOn: [
       {
         iconName: 'location',
-        text: 'Location, Place',
+        text: 'Canada, Calgary',
         url: '',
         hoverColor: '#546e7a'
       },
       {
         iconName: 'twitter',
-        text: '@username',
-        url: 'https://twitter.com/username',
+        text: '@Arslan67891210',
+        url: 'https://twitter.com/Arslan67891210',
         hoverColor: '#1da1f2'
       },
       {
         iconName: 'email',
-        text: 'email@email.com',
-        url: 'mailto://email@email.com',
+        text: 'Arah09@hotmail.com',
+        url: 'mailto:Arah09@hotmail.com',
         hoverColor: '#546e7a'
       },
       {
-        iconName: 'lock',
-        text: '@kuser',
-        url: 'https://keybase.io/kuser',
+        iconName: 'linkdin',
+        text: 'Arslan Ahmad',
+        url: 'https://www.linkedin.com/in/arslan-ahmad-0499a8180/',
         hoverColor: '#e9641c'
       }
     ]
