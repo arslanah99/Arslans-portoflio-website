@@ -42,26 +42,20 @@ const profile = {
   social: [
     {
       iconName: 'twitter',
-      url: 'https://twitter.com/username',
-      text: "I'm on Twitter",
+      url: 'https://twitter.com/Arslan67891210',
+      text: "Check out my twitter!",
       hoverColor: '#1da1f2'
     },
     {
-      iconName: 'telegram',
-      url: 'https://t.me/username',
-      text: "I'm on Telegram",
-      hoverColor: '#0088cc'
-    },
-    {
       iconName: 'github',
-      url: 'https://github.com/username',
-      text: "I'm on Github",
+      url: 'https://github.com/arslanah99',
+      text: "Checkout my Github!",
       hoverColor: '#000'
     },
     {
       iconName: 'email',
-      url: 'mailto:email@email.co',
-      text: 'Send me an email',
+      url: 'mailto:Arah09@hotmail.com',
+      text: 'Send me an email!',
       hoverColor: '#000'
     }
   ]
@@ -69,26 +63,41 @@ const profile = {
 
 const projects = [
   {
-    title: 'Project Title #1',
-    img: '',
-    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
-    categories: ['Sample', 'Open source', 'React'],
-    siteUrl: 'amazing.project.com',
-    sourceCodeUrl: 'github.com/user/project'
+    title: 'UpcycleYYC',
+    img: 'https://github.com/tranpaulyn/realUpcycleYYC/blob/master/Screenshots/home.png?raw=true',
+    description: 'UpcycleYYC is a waste management application with a gamifycation aspect built with react on the front end hosted on heroku and rails for the back end with postgres for the database.',
+    categories: ['React', 'Ruby on Rails', 'Postgres', 'Heroku'],
+    siteUrl: 'https://afternoon-tor-83860.herokuapp.com/',
+    sourceCodeUrl: 'https://github.com/arslanah99/realUpcycleYYC'
   },
   {
-    title: 'Project Title #2',
-    img: 'https://www.nethruster.com/assets/img/icons/apple-touch-icon.png',
-    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
-    categories: ['Sample', 'Freeware', 'Go'],
-    siteUrl: 'amazing.project.com'
+    title: 'ElFedora',
+    img: 'https://github.com/tranpaulyn/elFedora/blob/master/docs/Screenshot%20from%202019-03-04%2009-36-27.png?raw=true',
+    description: 'ElFedora is a take-out app that has a fully functioning interface built with Twilo, Node Skeleton, Knex, EJS, Express, PG, Morgan, Dotenv, Nodemon, Body-Parser and NPM.',
+    categories: ['Express', 'EJS', 'PG', 'Nodemon', 'Knex'],
+    siteUrl: 'https://elfedora.herokuapp.com/',
+    sourceCodeUrl: 'https://github.com/arslanah99/elFedora'
   },
   {
-    title: 'Project Title #3',
-    img: 'https://wareader.nethruster.com/assets/wrisot.svg',
-    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
-    categories: ['Wat', 'Linux', 'LoL'],
-    sourceCodeUrl: 'github.com/user/:O'
+    title: 'ChattyApp',
+    img: 'https://github.com/arslanah99/ChattyApp/blob/master/docs/Chatty-ScreenShot.png?raw=true',
+    description: 'A minimal and light dev environment for ReactJS. With a server that allows for texting to more than 1 web client.',
+    categories: ['Babel', 'Express', 'React'],
+    sourceCodeUrl: 'https://github.com/arslanah99/ChattyApp'
+  },
+  {
+    title: 'Tweeter',
+    img: 'https://github.com/arslanah99/tweeter/blob/master/docs/tweet-boxs.png?raw=true',
+    description: 'Tweeter is a simple, single-page Twitter clone.',
+    categories: ['HTML', 'CSS', 'JavaScript', 'jQuery', 'MongoDB'],
+    sourceCodeUrl: 'https://github.com/arslanah99/tweeter'
+  },
+  {
+    title: 'TinyApp',
+    img: 'https://github.com/arslanah99/TinyApp/blob/master/docs/Screenshot%20from%202019-02-17%2018-29-40.png?raw=true',
+    description: 'A URL-shortner application with a fully functioning user interface built with Node and Express',
+    categories: ['CSS', 'JavaScript', 'Express', 'EJS', 'bcrypt'],
+    sourceCodeUrl: 'https://github.com/arslanah99/TinyApp'
   }
 ]
 
