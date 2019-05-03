@@ -5,7 +5,7 @@ My personal webiste cloned from nethruster
 
 [Demo](https://ptemplate.nethruster.com)
 
-Example screenshot
+Home Screen Shot
 ![alt text](https://github.com/nethruster/ptemplate/blob/master/src/assets/icons/meta-img.png "Home screenshot")
 
 ### Requirements
