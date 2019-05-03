@@ -1,7 +1,7 @@
 # ptemplate
 [![Dependencies](https://david-dm.org/nethruster/ptemplate.svg)](https://david-dm.org/nethruster/ptemplate) [![DevDependencies](https://david-dm.org/nethruster/ptemplate/dev-status.svg)](https://david-dm.org/nethruster/ptemplate?type=dev)
 
-A personal website template that's not a pain in the ass to setup and use.
+My personal webiste cloned from nethruster
 
 [Demo](https://ptemplate.nethruster.com)
 
