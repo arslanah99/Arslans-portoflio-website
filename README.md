@@ -6,7 +6,7 @@ My personal webiste cloned from nethruster
 [Demo](https://ptemplate.nethruster.com)
 
 Home Screen Shot
-![alt text](https://github.com/nethruster/ptemplate/blob/master/src/assets/icons/meta-img.png "Home screenshot")
+![alt text](https://github.com/arslanah99/my-portfolio-website/blob/master/src/assets/icons/mywebiste.png?raw=true "Home screenshot")
 
 ### Requirements
 - You need to have `yarn` (**recommended**) or `npm` installed.
